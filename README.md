@@ -2,6 +2,7 @@
 # 基于PyQt5和YOLOv8的交通检测系统
 
 基于PyQt5和YOLOv8的智能交通分析系统，支持实时目标检测、多目标追踪、越线计数、区域计数等功能。
+
 <img width="2075" height="1368" alt="image" src="https://github.com/user-attachments/assets/2a0f40e7-145c-4e68-bf32-16cdd46fccc6" />
 
 ## ✨ 主要功能
