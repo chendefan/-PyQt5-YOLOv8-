@@ -1,0 +1,34 @@
+# Core ML and Computer Vision Dependencies
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=9.5.0
+
+# PyQt GUI Framework
+PyQt5>=5.15.0
+pyqt5-tools>=5.15.0
+
+# Data Processing and Analysis
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Data Export
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Multimedia Processing
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8
+
+# System Tools
+psutil>=5.9.0
+tqdm>=4.65.0
+
+# Development and Testing Tools (Optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
